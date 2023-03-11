@@ -32,4 +32,4 @@ if __name__ == "__main__":
         print(f.read())
 
     # Remove temporary file
-    remove(filename_output)
+    remove(filename_output) 
